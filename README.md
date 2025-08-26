@@ -148,11 +148,6 @@ This demo is intended solely for security awareness training within controlled e
 
 ## ✅ Status
 
-Demo verified: **Working 100% with Flipper Zero BadUSB + Metasploit Reverse HTTP Payload**
+Demo verified
 
 ---
-
-## 🔗 Credits
-
-* Original HoaxShell idea by Panagiotis Chartas
-* Modified and repurposed by Teja for internal Siemens Energy Cybersecurity demo
