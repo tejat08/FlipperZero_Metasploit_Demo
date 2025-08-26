@@ -1,7 +1,5 @@
 # FlipperZero_Metasploit_Demo
 
-# Flipper Zero + Metasploit GUI Attack Demo
-
 ## Overview
 
 This demo showcases a simulated USB drop attack using **Flipper Zero** with a **BadUSB payload**, delivering a **reverse Meterpreter shell** to a Kali Linux machine and executing a GUI-based post-exploitation effect on the target Windows system. The objective is to raise awareness among non-technical audiences about how seemingly harmless USB devices can lead to complete system compromise.
