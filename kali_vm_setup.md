@@ -23,20 +23,12 @@ This guide outlines how to set up the Kali Linux virtual machine used in the Fli
 ---
 
 ## 3. Initial Setup
+🖥️ For VirtualBox:
+✅ Step 1: Install VirtualBox
 
-### For VirtualBox:
+If not already installed, download and install VirtualBox from:
 
-1. Import the downloaded `.ova` file.
-2. Configure the VM:
-
-   * System > Processor: Set at least 2 cores.
-   * Network > Adapter 1: Select **Bridged Adapter** to ensure it’s on the same network as the Windows VM and Flipper.
-
-### For VMware:
-
-1. Open VMware Workstation/Player.
-2. Use "Open a Virtual Machine" and select the `.vmx` file.
-3. Ensure the network is set to **Bridged Mode**.
+👉 https://www.virtualbox.org/wiki/Downloads
 
 ---
 
