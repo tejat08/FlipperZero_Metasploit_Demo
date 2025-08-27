@@ -17,7 +17,7 @@ This guide outlines how to set up the Kali Linux virtual machine used in the Fli
 
 ## 2. Download Kali ISO
 
-* Official download link: [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-virtual-machines)
+* Official download link: [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-platforms)
 * Download the **VirtualBox** or **VMware** pre-built image for convenience.
 
 ---
